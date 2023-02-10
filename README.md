@@ -1,4 +1,4 @@
-## The Effects of N-linked Glycosylation onSLC6 Transporters
+## The Effects of N-linked Glycosylation on SLC6 Transporters
 
 Matthew C. Chan and Diwakar Shukla
 
